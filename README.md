@@ -52,9 +52,11 @@ I specialize in threat detection, vulnerability management, and securing enterpr
 
 ## 📊 GitHub Stats
 
-![Rosie's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RosieDomenech&show_icons=true)
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RosieDomenech&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RosieDomenech&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RosieDomenech&layout=compact)
 
 ---
 
