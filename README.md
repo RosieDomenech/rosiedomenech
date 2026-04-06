@@ -1,6 +1,6 @@
 # 🛡️ Rosie Domenech
 
-**Cybersecurity Engineer · Security Engineer ·**
+**Cybersecurity Engineer ·**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rosiedomenech/)
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail)](mailto:ADD_EMAIL_HERE)
