@@ -14,7 +14,7 @@ I’m a cybersecurity engineer working at the intersection of security, infrastr
 
 I specialize in threat detection, vulnerability management, and securing enterprise environments- with a focus on turning complex security challenges into practical, scalable solutions.
 
-🎓 Graduate of the Tandon School of Engineering  
+🎓 Graduate of the NYU Tandon School of Engineering  
 📜 Experienced in regulatory and compliance-driven environments  
 
 ---
