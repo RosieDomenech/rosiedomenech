@@ -2,7 +2,6 @@
 
 **Cybersecurity Engineer ·**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rosiedomenech/)
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail)](mailto:ADD_EMAIL_HERE)
 ![Profile Views](https://komarev.com/ghpvc/?username=RosieDomenech)
 
@@ -69,6 +68,3 @@ I specialize in threat detection, vulnerability management, and securing enterpr
 
 ---
 
-## 📫 Let’s Connect
-
-- LinkedIn: https://www.linkedin.com/in/rosiedomenech/  
