@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-I’m a cybersecurity engineer working at the intersection of security, infrastructure, and software engineering.
+I’m a cybersecurity engineer working at the intersection of security, compliance, and software engineering.
 
 I specialize in threat detection, vulnerability management, and securing enterprise environments- with a focus on turning complex security challenges into practical, scalable solutions.
 
