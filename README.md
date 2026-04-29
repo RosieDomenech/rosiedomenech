@@ -1,6 +1,6 @@
 # 🛡️ Rosie Domenech
 
-**Cybersecurity Engineer ·**
+**Cybersecurity Engineer **
 
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail)](mailto:rosie.domenech@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=RosieDomenech)
